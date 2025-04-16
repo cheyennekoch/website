@@ -1,0 +1,46 @@
+/* style sheet for Cheyenne Koch's personal resume website
+
+    // COLOR SCHEME //
+    champagne-pink #F7DACA
+    hunyadi-yellow #FEB956
+    powder-blue #95B0CC
+    dark-slate-gray #33473E
+    dark green #48533C 
+    */
+
+
+<link href="/normalize.css" rel="stylesheet">
+
+<style>
+
+body {
+      background-color: #f7daca;
+      text-align: center;
+      color: #33473e;
+      font-family: garamond;
+    }
+
+h1 {
+        font-size: 70px;
+        font-family: helvetica;
+    }
+
+h2 {
+        font-family: helvetica;
+        color: #48533c;
+    }
+
+p   {
+        font-family: garamond;
+        color: #33473e;
+        font-size: 16px;
+    }
+
+td   {
+        font-family: garamond;
+        color: #33473e;
+        font-size: 16px;
+    }
+
+
+</style>
